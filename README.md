@@ -5,5 +5,5 @@
 * Alpaca API was used to fetch historical stock data
 
 #### Monte carlo simulation
-monte carlo simulation performed on portfolio holdings to project performance over the next 30 years
+* monte carlo simulation performed on portfolio holdings to project performance over the next 30 years
 * calculated projected returns given an initial investment
